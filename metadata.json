@@ -1,0 +1,8 @@
+{
+  "name": "AI Learning Club",
+  "description": "An internal AI learning community platform for professional development and knowledge sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
